@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gambarte3</string>
+    <string name="pago_de_servicios">Pago de Servicios</string>
+    <string name="mis_transacciones">Mis Transacciones</string>
+
+    <!-- Lista de servicios -->
+    <string-array name="services_array">
+        <item>Agua</item>
+        <item>Electricidad</item>
+        <item>Internet</item>
+        <item>Teléfono</item>
+    </string-array>
+
+</resources>
